@@ -1,6 +1,6 @@
 # gentik-domains-mcp
 
-MCP server for [Gentik Domains](https://agentdomains.dev) — register domains, check availability, manage DNS, and authenticate via Ed25519.
+MCP server for [AgentDomains](https://agentdomains.dev) — register domains, check availability, manage DNS, and authenticate via Ed25519.
 
 ## Quick Start
 

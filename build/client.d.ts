@@ -1,5 +1,5 @@
 /**
- * Lightweight HTTP client for the Gentik Domains API.
+ * Lightweight HTTP client for the AgentDomains API.
  */
 export declare class GentikClient {
     private baseUrl;

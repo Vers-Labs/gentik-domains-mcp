@@ -1,6 +1,6 @@
 # gentik-domains-mcp
 
-MCP server for the Gentik Domains API. Wraps the REST API as 10 MCP tools for AI agent consumption.
+MCP server for the AgentDomains API. Wraps the REST API as 10 MCP tools for AI agent consumption.
 
 ## Commands
 
@@ -15,7 +15,7 @@ npm start          # run the server (stdio transport)
 
 - `src/index.ts` — entry point, creates McpServer + StdioServerTransport
 - `src/tools.ts` — all 10 tool registrations with zod schemas
-- `src/client.ts` — lightweight HTTP client for the Gentik Domains API
+- `src/client.ts` — lightweight HTTP client for the AgentDomains API
 
 ## Environment Variables
 

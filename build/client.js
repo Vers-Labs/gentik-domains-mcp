@@ -1,5 +1,5 @@
 /**
- * Lightweight HTTP client for the Gentik Domains API.
+ * Lightweight HTTP client for the AgentDomains API.
  */
 const DEFAULT_BASE_URL = "https://agentdomains.dev";
 export class GentikClient {
